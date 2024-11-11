@@ -1,4 +1,4 @@
-# Medium Clone Project
+# Medium
 
 ## Overview
 This project is a full-stack application inspired by the Medium website. It allows users to create, read, update, and delete blog posts, with interactive features like comments and likes. The project is built using a modern tech stack that ensures scalability, performance, and type safety.
