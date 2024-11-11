@@ -26,4 +26,4 @@ This project is a full-stack application inspired by the Medium website. It allo
 - **PostgreSQL**: Relational database for storing user and blog data.
 - **JWT**: JSON Web Token for secure authentication.
 
-## Project Structure
+
